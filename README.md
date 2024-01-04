@@ -1,4 +1,4 @@
-- 💪Hi, I’m Jose Guzman. I am currently pursuin my degree in Computer Science.
+- 💪Hi, I’m Jose Guzman. I am currently pursuing my degree in Computer Science.
 - 🫦Some languages i've learned are HTML and Java.
 - 🦍Outside of coding I enjoy playing instruments, videogames, and working out. My favorite instrument to play is the Tenor Saxophone, but I also know how to play the clarinet, alto saxophone, and the marimba.
   VideoGames are a hobby of mine. I enjoy videogames because I feel like it helps spark creativity and it's just a fun overall experience. I try to workout at least 3 times a week. I enjoy working out because it 
